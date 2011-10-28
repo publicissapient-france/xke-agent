@@ -1,0 +1,5 @@
+Premain-Class: fr.xebia.xke.Agent
+Agent-Class: fr.xebia.xke.Agent
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: false
